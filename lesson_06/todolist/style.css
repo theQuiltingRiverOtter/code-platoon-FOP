@@ -1,0 +1,50 @@
+#main {
+    background-color: #6f42c1;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#title {
+    font-size: 70px;
+    font-family: 'Inknut Antiqua', serif;
+    font-weight: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    height: 95vh;
+    width: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    font-size: 20px;
+    width: 400px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Cardo', serif;
+}
+
+#create {
+    background-color: #6f42c1;
+    color: white;
+}
+
+.bg-purple {
+    padding: 2px 5px 5px 5px;
+    background-color: #6f42c1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 8px;
+}

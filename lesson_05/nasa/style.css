@@ -1,0 +1,15 @@
+#getForm {
+    display: none;
+    margin: 20px;
+}
+
+#loading {
+    display: none;
+}
+
+#nasaImg {
+    width: 400px;
+    height: 400px;
+    display: none;
+    margin-top: 20px;
+}
